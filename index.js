@@ -354,7 +354,7 @@ Administracja niedługo odpowie.
 if(interaction.customId === "close_ticket"){
 
 
-    if(!interaction.member.roles.cache.has(process.env.1529935197267820705)) {
+    if(!interaction.member.roles.cache.has(process.env.SUPPORT_ROLE_ID)) {
 
         return interaction.reply({
 
