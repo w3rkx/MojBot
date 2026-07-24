@@ -66,7 +66,7 @@ client.on("messageCreate", async message=>{
 
     if(message.content === "!ping"){
 
-        message.reply("Lubie w dupe");
+        message.reply("🏓 Pong!");
 
     }
 
