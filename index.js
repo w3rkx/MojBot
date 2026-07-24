@@ -96,7 +96,7 @@ client.on("messageCreate", async message=>{
 
     if(message.content === "!Burger"){
 
-        message.reply("Wygrales MysteryBox zrob screena tej wiadomosc i wyslij na ticket");
+        message.reply("Wygrales Nic ");
 
     }
 
